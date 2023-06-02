@@ -1,6 +1,6 @@
 # AtCoderCustomResultSheetShare
 
-AtCoderのコンテスト成績表をTwitterでシェアする際に、ツイートに記載する項目を独自にカスタマイズすることができるユーザースクリプトです．  
+AtCoderのコンテスト成績表をTwitterでシェアする際に、ツイートに記載する項目を独自にカスタマイズすることができるユーザースクリプトです。  
 GrasyForkからのインストールは[こちら](https://greasyfork.org/ja/scripts/454451-atcodercustomresultsheetshare)
 
 デフォルトの設定では、ツイート内のコンテスト名を短縮するようになっています。  
